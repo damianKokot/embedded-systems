@@ -1,0 +1,47 @@
+$date
+	Mon Mar 15 22:17:32 2021
+$end
+$version
+	GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+$end
+$timescale
+	1fs
+$end
+$scope module top $end
+$scope module adder_tb $end
+$var wire 1 & i0 $end
+$var wire 1 % i1 $end
+$var wire 1 $ ci $end
+$var wire 1 # s $end
+$var wire 1 " co $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+#1000000
+1$
+1#
+#2000000
+0$
+1%
+#3000000
+0#
+1"
+1$
+#4000000
+0$
+1#
+1&
+0%
+0"
+#5000000
+1"
+1$
+0#
+#6000000
+0$
+1%
+#7000000
+1#
+1$
+#8000000
